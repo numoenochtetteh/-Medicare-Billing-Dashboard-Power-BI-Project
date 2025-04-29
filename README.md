@@ -1,10 +1,18 @@
-🏥 Medicare Billing Dashboard – Power BI Project
 
+🏥 Medicare Billing Dashboard – Power BI Project
 
 This project demonstrates a comprehensive healthcare billing dashboard built using Power BI. It provides key financial and operational insights for a hospital or medical billing unit using Medicare-related data.
 
+
+
+
+
 📌 Objective
 The aim of this dashboard is to help healthcare organizations transition from Excel-based reporting to interactive Power BI dashboards. It provides real-time visibility into costs, coverage, procedures, provider performance, and city/state-wise billing trends – enabling faster, data-driven decisions.
+
+
+
+
 
 📊 Key Dashboard Features
 ✅ Financial KPIs: Total Billing Amount, Medication Cost, Treatment Cost, Insurance Coverage, Out-of-Pocket Expenses.
@@ -15,6 +23,8 @@ The aim of this dashboard is to help healthcare organizations transition from Ex
 📈 DAX Measures: Custom calculations like Avg Billing per Visit, Avg Out-of-Pocket, Avg Insurance Coverage, and more.
 🧩 Dataset Structure
 This project uses fictionalized Medicare billing data split into multiple relational tables:
+
+
 
 Patients: Demographics, race, age, city
 Visits: Treatment details, charges, provider info, service type
@@ -30,6 +40,8 @@ Power Query (ETL)
 DAX for calculated fields and KPIs
 Excel (initial data formatting)
 📌 Use Case
+
+
 This dashboard can be used by:
 
 Hospital administrators
@@ -37,6 +49,8 @@ Medical billing teams
 Revenue cycle managers
 Business analysts in healthcare
 It helps answer:
+
+
 
 Where is most of our billing revenue coming from?
 Which procedures are the most expensive?
